@@ -1,0 +1,15 @@
+#productList {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 14px;
+  font-style: italic;
+}
